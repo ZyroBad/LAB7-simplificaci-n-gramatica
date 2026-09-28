@@ -28,3 +28,5 @@ Los no terminales son letras mayusculas individuales. Los terminales son letras
 minusculas o digitos. Para epsilon se acepta `epsilon`, `eps`, `e`, `ε` o `ϵ`.
 
 Si una linea esta mal escrita, la ejecucion se detiene y se muestra el error.
+
+Link del video explicativo: https://youtu.be/eX3rdBYWQf8
